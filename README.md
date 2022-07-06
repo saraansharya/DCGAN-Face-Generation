@@ -1,4 +1,3 @@
-# Udacity-Face-Generation
 Udacity Deep Learning Nanodegree - Face generation project
 
 The project was created as a part of the Udacity Deep Learning nanodegree.
